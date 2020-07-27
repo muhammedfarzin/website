@@ -10551,8 +10551,8 @@ h4.sub-title {
     transition: 0.3s ease-out;
     opacity: 0.8; }
   .w3l-feature-3 .grid-column {
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px; }
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 100px; }
   .w3l-feature-3 .three-grids-columns h4 {
     font-size: 20px;
     color: var(--white-color);
